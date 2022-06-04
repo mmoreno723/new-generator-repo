@@ -1,10 +1,10 @@
 # new-generator-repo
 
-##Description
+## Description
 
 This is a random password generator website. Once prompted by the alerts on the page, your password will be randomly generated based on the values you inputed. I was motivated to make this to show potential employers that I am well versed in javascript. I built this project to practice my JavaScript skills, including var statements, functions, alerts, prompts, and if and for conditions. 
 
-##Installation
+## Installation
 
 To open this environment, here are the steps needed:
 
@@ -15,7 +15,7 @@ To open this environment, here are the steps needed:
   5. Once cloned, check the status of the cloning by navigating to the directory where the repo is located and typing "git status"
   6. If green, then the repo has been cloned and you can then drag the folder from your computer into vscode to run the environment
 
-##Usage 
+## Usage 
 
 You may use this to access my coding examples in case you would like to see my work
 
@@ -27,7 +27,7 @@ You may use this to access my coding examples in case you would like to see my w
 ## Link
 https://mmoreno723.github.io/new-generator-repo/
 
-##Credits 
+## Credits 
 
 Thank you to third party websites like MDN and W3 for providing me with lots of information to complete this assignment.
 
