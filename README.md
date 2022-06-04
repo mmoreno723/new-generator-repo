@@ -19,6 +19,14 @@ To open this environment, here are the steps needed:
 
 You may use this to access my coding examples in case you would like to see my work
 
+## Screenshots
+<img width="1028" alt="Screen Shot 2022-06-03 at 8 58 25 PM" src="https://user-images.githubusercontent.com/102837154/171970422-c7015a32-a8d1-4aa2-818a-3076f03763f6.png">
+<img width="518" alt="Screen Shot 2022-06-03 at 8 59 02 PM" src="https://user-images.githubusercontent.com/102837154/171970426-4a8412af-1bb9-4090-9229-ad8c84bcee64.png">
+<img width="930" alt="Screen Shot 2022-06-03 at 8 59 52 PM" src="https://user-images.githubusercontent.com/102837154/171970716-a69892f1-40bf-4d13-9d1c-e9e08a1f3ef5.png">
+
+## Link
+
+
 ##Credits 
 
 Thank you to third party websites like MDN and W3 for providing me with lots of information to complete this assignment.
